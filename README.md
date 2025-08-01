@@ -4,7 +4,7 @@
 
 <h1 style="font-size: 25px; text-align:center;">👋Hello, My name is Dhabit Muhammad Faqih</h1>
 
-<h3 style="text-align:center;">🏫 Siswa di Pelita Nusantara</h3>
+<h3 style="text-align:center;">🏫 Siswa di Plus Pelita Nusantara</h3>
 
 <div align= "center"><img src="/assets/Art Love GIF.gif" width="240px"></div>
 
