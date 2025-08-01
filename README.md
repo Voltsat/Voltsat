@@ -4,17 +4,17 @@
 
 <h1 style="font-size: 25px; text-align:center;">👋Hello, My name is Dhabit Muhammad Faqih</h1>
 
-<h4 style="text-align:center;">🏫 Siswa di Pelita Nusantara</h4>
+<h3 style="text-align:center;">🏫 Siswa di Pelita Nusantara</h3>
 
 <div align= "center"><img src="/assets/Art Love GIF.gif" width="240px"></div>
 
 
 ## 🛠️ Skill :
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<div><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></div>
 
-<h5 align="left">🚀 Cita cita jadi fullstack, realita gancet di CSS</h5>
+<h3 align="left">🚀 Cita cita jadi fullstack, realita gancet di CSS</h3>
 
 ## Media sosial :
 <div>
