@@ -29,3 +29,5 @@
 <h3>Github Stats :</h3>
 
 ![Voltsat's GitHub stats](https://github-readme-stats.vercel.app/api?username=Voltsat&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Voltsat&layout=compact)
