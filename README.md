@@ -22,6 +22,7 @@
 <div>
 <a href="https://github.com/Voltsat"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 <a href="https://www.instagram.com/dhabitmfaqih/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://www.tiktok.com/@dhabitmf"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"></a>
 </div>
 
 ##
