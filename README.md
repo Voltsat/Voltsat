@@ -1,12 +1,10 @@
 ![Banner](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 
-![Profile views](https://komarev.com/ghpvc/?username=Voltsat&label=Profile%20views&color=0e75b6&style=flat)
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=34&duration=2000&pause=1000&color=42A5F5&center=true&vCenter=true&width=700&lines=Halo+coi+gw+Dhabit+Muhammad+Faqih;Fullstack+Developer+in+progress" alt="Typing SVG" />
+</h1>
 
-<h1 style="font-size: 25px; text-align:center;">👋Halo, Nama gw Dhabit Muhammad Faqih</h1>
-
-<h3 style="text-align:center;">🏫 Siswa di Plus Pelita Nusantara</h3>
-
-<div align= "center"><img src="/assets/Art Love GIF.gif" width="240px"></div>
+<div align= "center"><img src="/assets/hsr.gif" width="240px"></div>
 
 
 <h3>🛠️ Skill :</h3>
@@ -29,6 +27,11 @@
 
 <h3>Github Stats :</h3>
 
+
+<div align="center">
+
 ![Voltsat's GitHub stats](https://github-readme-stats.vercel.app/api?username=Voltsat&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Voltsat&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Voltsat&layout=compact&theme=tokyonight)
+
+</div>
