@@ -1,7 +1,7 @@
 ![Banner](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=34&duration=2000&pause=1000&color=42A5F5&center=true&vCenter=true&width=700&lines=Halo+coi+gw+Dhabit+Muhammad+Faqih;Fullstack+Developer+in+progress" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=2000&pause=1000&color=42A5F5&center=true&vCenter=true&width=700&lines=Halo+coi+gw+Dhabit+Muhammad+Faqih;Fullstack+Developer+in+progress" alt="Typing SVG" />
 </h1>
 
 <div align= "center"><img src="/assets/hsr.gif" width="240px"></div>
@@ -27,6 +27,9 @@
 
 <h3>Github Stats :</h3>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/GitHub-Voltsat-black?style=for-the-badge&logo=github" />
+</p>
 
 <div align="center">
 
