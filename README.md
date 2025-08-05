@@ -27,9 +27,6 @@
 
 <h3>Github Stats :</h3>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/GitHub-Voltsat-black?style=for-the-badge&logo=github" />
-</p>
 
 <div align="center">
 
