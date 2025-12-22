@@ -8,6 +8,8 @@
   <img src="/assets/hsr.gif" width="240px">
 </div>
 
+---
+
 <h3>👋 About Gwehj</h3>
 
 - Fokus utama: **Mobile Developer**
@@ -15,6 +17,8 @@
 - Background Web (HTML, CSS, JS)
 - Target: **Publish app sendiri di Play Store**
 - Masih kadang kejebak di CSS (move on ke mobile)
+
+---
 
 <h3>🛠️ Tech Stack</h3>
 
