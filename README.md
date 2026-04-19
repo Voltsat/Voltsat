@@ -10,13 +10,12 @@
 
 ---
 
-<h3>👋 About Gwehj</h3>
+<h3>👋 About Me</h3>
 
-- Fokus utama: **Mobile Developer**
-- Lagi serius belajar **Flutter**
-- Background Web (HTML, CSS, JS)
-- Target: **Publish app sendiri di Play Store**
-- Masih kadang kejebak di CSS (move on ke mobile)
+- Main Focus: **Mobile Development**
+- Currently Learning On **Flutter**
+- Background in Website Development: HTML, CSS, JavaScript
+- Target: **Publish my own application on the Play Store**
 
 ---
 
@@ -61,4 +60,4 @@
 
 ---
 
-<h3 align="center">Mobile Developer InsyaAllah bukan wacana — On Progress 😝</h3>
+<h3 align="center">I want to be a Mobile Developer 🧐</h3>
