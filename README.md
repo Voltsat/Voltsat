@@ -1,7 +1,7 @@
 ![Banner](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=2000&pause=1000&color=42A5F5&center=true&vCenter=true&width=800&lines=Halo+coi+gw+Dhabit+Muhammad+Faqih;Mobile+Developer+in+Progress;Flutter+Enjoyer+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=2000&pause=1000&color=42A5F5&center=true&vCenter=true&width=800&lines=Hello+im+Dhabit+Muhammad+Faqih;Mobile+Developer+in+Progress;Flutter+enjoyer+%F0%9F%9A%80" alt="Typing SVG" />
 </h1>
 
 <div align="center">
